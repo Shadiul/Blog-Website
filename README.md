@@ -2,7 +2,7 @@
 
 ## Home Page
 <div align="center">
-    <img src="/homepage.png" width="400px"</img>
+    <img src="/homepage.png"</img>
 </div>
 
 ## Compose Page
