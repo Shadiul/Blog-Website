@@ -1,4 +1,4 @@
-# Blog-Website
+# [Blog-Website](https://www.nindos-blog.herokuapp.com)
 
 ## Home Page
 <div align="center">
@@ -7,10 +7,11 @@
 
 ## Compose Page
 <div align="center">
-    <img src="/compose.png" width="400px"</img>
+    <img src="/compose.png"</img>
 </div>
 
 ## Post Page
 <div align="center">
-    <img src="/post.png" width="400px"</img>
+    <img src="/post.png"</img>
 </div>
+
