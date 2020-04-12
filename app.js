@@ -20,7 +20,7 @@ app.use(bodyParser.urlencoded({
 app.use(express.static("public"));
 
 //Set up default mongoose connection
-var mongoDB = 'mongodb+srv://admim-shadiul:test123@cluster0-dxqs0.mongodb.net/blogsDB';
+var mongoDB = 'mongodb+srv://admim-shadiul:<PASSWORD>@cluster0-dxqs0.mongodb.net/blogsDB';
 mongoose.connect(mongoDB, {
   useNewUrlParser: true,
   useUnifiedTopology: true
